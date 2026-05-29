@@ -1,0 +1,22 @@
+# Melissa Tang — Product Designer
+
+## Professional Profile
+AI-native UX Designer with 10+ years of experience (7 at Google) specializing in complex developer tools, advanced software systems, and AI-powered experiences. Expert at mapping UX architecture directly to foundation model constraints, building for specialized expert personas, and prototyping directly in code.
+
+## Core Traits & Impact
+- **Rethinking the Basics:** Pioneered novel canvas and component primitives for AI-powered journeys, tailored to continuous, multi-turn LLM agent execution.
+- **Ship Fast, Stay in Motion:** Led end-to-end design for agentic workflows, ML platforms, and lifecycle management surfaces. Guided a 0→1 automated machine learning platform under Google Brain through rapid beta-to-GA launch loops, providing clarity and delivering significant impact across launches. Bypasses prolonged alignment cycles by using localized prototyping to ship enterprise MVPs ahead of model iteration timelines.
+- **AI-Native Workflows:** Architected context-aware assistants, semantic entity summaries, and native panel-driven design language systems optimized specifically for multi-turn AI interactions and low-latency complex troubleshooting workflows.
+- **Technical Domain Fit & Target User Empathy:** Deeply familiar with expert personas, complex workflows, and developer tools through extensive work on TFX onboarding (reducing setup from 6 hours to 1 hour), internal developer logging, and low-code platforms.
+- **Cross-Functional Strategy:** Operates symmetrically with Tech Leads, machine learning engineers, and core infrastructure teams. Orchestrates cross-functional workshops that cut through technical ambiguity to align design execution with frontier system capabilities while driving unified design systems and rigorous user research.
+- **Empirical Product Validation:** Validates complex system design via structural product excellence programs, converting 52 Critical User Journey (CUJ) self-assessments and cross-functional machine learning interpretability inputs into hard infrastructure requirements.
+- **Elevate Craft While Moving Fast:** Maintained absolute execution quality under tight enterprise deadlines, balancing granular layout accuracy in centralized Figma engineering systems with high-velocity product delivery across highly sophisticated domains.
+
+## Education
+- M.S. in Human-Computer Interaction/design (HCI/d), Indiana University (2015)
+
+## Contact & Verification
+- Email: hi@melissatang.com
+- LinkedIn: https://www.linkedin.com/in/melissatang
+- GitHub: https://github.com/txz8096
+- Canonical Website: https://melissatang.com
